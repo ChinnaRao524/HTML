@@ -1,0 +1,50 @@
+WakeUp at 6 AM IST
+Start at 6 : 15 AM to 7 : 15 AM IST
+Daily   30 minutes tutorial
+	30 minutes practice
+
+Concepts : HTML,CSS,JS
+
+
+HTML Cource : https://www.youtube.com/watch?v=pQN-pnXPaVg
+
+16 May 2022
+⌨️ (0:00:00) Introduction
+⌨️ (0:01:54) Choosing a Text Editor
+⌨️ (0:08:13) Creating an HTML file
+⌨️ (0:20:31) Basic Tags
+
+17th
+⌨️ (0:36:47) Comments
+⌨️ (0:42:13) Style & Color
+
+18th
+⌨️ (0:48:07) Formatting a Page
+⌨️ (0:59:16) Links
+
+
+19th
+⌨️ (1:07:33) Images
+⌨️ (1:16:12) Videos & Youtube iFrames
+⌨️ (1:23:00) Lists
+
+20th
+⌨️ (1:28:53) Tables
+⌨️ (1:37:21) Divs & Spans
+⌨️ (1:44:54) Input & Forms
+
+21st
+⌨️ (1:53:44) iFrames
+⌨️ (1:57:21) Meta Tags
+
+
+
+
+
+CSS Cource : https://www.youtube.com/watch?v=ieTHC78giGQ
+JS Cource : https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1187s
+
+
+
+
+		
